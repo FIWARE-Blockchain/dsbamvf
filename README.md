@@ -1,3 +1,3 @@
 # dsbamvf
 
-[Click here](https://hesusruiz.github.io/dsbamvf)
+[Click here](https://fiware-blockchain.github.io/dsbamvf/)
